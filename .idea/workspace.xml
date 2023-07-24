@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47fd7f75-a239-4c35-8b29-18efcc5e9bfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dish.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/location.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/restro.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/review.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec22sa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DelPartner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Restro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +64,8 @@
       <workItem from="1669203358910" duration="3207000" />
       <workItem from="1669371941360" duration="3563000" />
       <workItem from="1669624049379" duration="3447000" />
-      <workItem from="1669693097170" duration="4718000" />
+      <workItem from="1669693097170" duration="5313000" />
+      <workItem from="1669798934422" duration="2734000" />
     </task>
     <servers />
   </component>
